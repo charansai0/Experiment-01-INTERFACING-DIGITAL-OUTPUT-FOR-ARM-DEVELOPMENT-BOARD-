@@ -80,6 +80,11 @@ The main features of LPC2148 include the following.
 
 ## STM 32 CUBE PROGRAM :
 ~~~
+Name : v.charan sai.
+Reg no : 212221240061.
+Dept : AIML.
+~~~
+~~~
  #include "main.h"
 
 void SystemClock_Config(void);
