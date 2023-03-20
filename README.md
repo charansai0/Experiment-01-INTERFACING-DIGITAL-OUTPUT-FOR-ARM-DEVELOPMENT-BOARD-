@@ -187,8 +187,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
+Case 1 :
  ![226296408-ec462e0d-3756-4ea1-942e-7e1527700fee](https://user-images.githubusercontent.com/94296221/226370244-f5158061-ba93-421c-bc0b-905e7eaa6050.png)
-
+Case 2 :
  ![226362467-ff6c54d8-3bfc-4b81-ac92-19fe066b0c69](https://user-images.githubusercontent.com/94296221/226370260-0d6f7b53-a3a4-4d90-b977-c1a54b13fc96.png)
 
  
